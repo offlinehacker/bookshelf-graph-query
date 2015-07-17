@@ -1,6 +1,6 @@
 {
   "name": "bookshelf-graph-query",
-  "version": "0.2.2",
+  "version": "0.1.0",
   "description": "Bookshelf graph query, enables tree-like queries using bookshelf relations",
   "main": "index.js",
   "directories": {
