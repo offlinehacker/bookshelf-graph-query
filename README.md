@@ -1,5 +1,7 @@
 # Bookshelf graph query
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/offlinehacker/bookshelf-graph-query.svg)](https://greenkeeper.io/)
+
 This plugin works with Bookshelf.js, available here http://bookshelfjs.org.
 It provides graph query, which makes graph-like queries using bookshelf
 relations.
